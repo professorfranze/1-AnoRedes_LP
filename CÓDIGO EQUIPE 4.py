@@ -2,6 +2,7 @@ import random2
 import random
 def gera() :
     return random.randint(1,100)
+
 def game():
     resposta = gera()
     tentativa = 0
